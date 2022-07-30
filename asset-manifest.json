@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador-clics/static/css/main.bb5953bb.css",
+    "main.js": "/contador-clics/static/js/main.9602f070.js",
+    "index.html": "/contador-clics/index.html",
+    "main.bb5953bb.css.map": "/contador-clics/static/css/main.bb5953bb.css.map",
+    "main.9602f070.js.map": "/contador-clics/static/js/main.9602f070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb5953bb.css",
+    "static/js/main.9602f070.js"
+  ]
+}
