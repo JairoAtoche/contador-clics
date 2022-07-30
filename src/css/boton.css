@@ -1,0 +1,16 @@
+.boton {
+    width: 150px;
+    height: 50px;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.boton--agregar {
+    background-color: purple;
+    color: #fff;
+}
+.boton--reiniciar {
+    margin-top: 20px;
+    background-color: #fff;
+    color: purple;
+}
